@@ -1,0 +1,12 @@
+body
+{
+    background-color: burlywood;
+}
+
+#titulo
+{
+    color: brown;
+    display: flex;
+    padding: 1px;
+    justify-content: center;
+}
